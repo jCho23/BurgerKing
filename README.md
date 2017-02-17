@@ -2,13 +2,13 @@
 
 This demo shows how to use Xamarin.UITest and write Test Scripts for a Cordova App.
 
-**#Authors**
+#Authors
 
 **June Cho**
 <br>
 *Microsoft Technical Solutions Professional*
 
-**#License**
+#License
 
 MIT License
 
