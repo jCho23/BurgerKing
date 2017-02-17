@@ -57,7 +57,7 @@ namespace BurgerKing
 			app.Tap(x => x.Class("XWalkCordovaView").Css(".col.col-50.col-center.col-title"));
 			app.Screenshot("Next we Tapped on 'Sausage, Egg, and Cheese'");
 
-			Thread.Sleep(9000);
+			Thread.Sleep(8000);
 			app.ScrollDown();
 			app.Screenshot("Then we Scrolled Down for more information");
 		}
