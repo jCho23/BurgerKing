@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{65BEE3C1-ABF5-4780-9F7F-6853009C8220}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BurgerKing/Tests.cs">
+    <Files>
+      <File FileName="BurgerKing/AppInitializer.cs" Line="23" Column="16" />
+      <File FileName="BurgerKing/Tests.cs" Line="32" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="BurgerKing" expanded="True" selected="True">
+            <Node name="BurgerKing" expanded="True">
+              <Node name="BurgerKing" expanded="True">
+                <Node name="Tests" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.BurgerKing PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
