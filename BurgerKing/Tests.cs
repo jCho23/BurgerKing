@@ -36,12 +36,14 @@ namespace BurgerKing
 		[Test]
 		public void FirstTest()
 		{
-			app.Tap(x => x.Class("XWalkCordovaView").Css("#data_zipcode_32"));
+			app.Tap(x => x.Class("XWalkCordovaView").Css(".text-center").Index(1));
 			app.Screenshot("Let's start by Tapping on the Zip Code Field");
 			app.ClearText();
 			app.Screenshot("Then we cleared the Zip Code");
 			app.EnterText("94111");
 			app.Screenshot("Next we entered our Zip Code, '94111'");
+			app.DismissKeyboard();
+			app.Screenshot("Dismissed Keyboard");
 			app.Tap(x => x.Class("XWalkCordovaView").Css(".button.button-theme-unified.ng-binding"));
 			app.Screenshot("We Tapped on the Continue Button");
 
