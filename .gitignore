@@ -18,6 +18,7 @@ obj/
 *.user
 *.userosscache
 *.sln.docstates
+*.apk
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 
