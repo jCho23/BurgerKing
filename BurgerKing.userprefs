@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="BurgerKing/Tests.cs">
     <Files>
       <File FileName="BurgerKing/AppInitializer.cs" Line="23" Column="16" />
-      <File FileName="BurgerKing/Tests.cs" Line="1" Column="1" />
+      <File FileName="BurgerKing/Tests.cs" Line="54" Column="48" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -11,4 +11,5 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.BurgerKing PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
 </Properties>
