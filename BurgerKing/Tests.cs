@@ -9,7 +9,6 @@ using System.Threading;
 namespace BurgerKing
 {
 	[TestFixture(Platform.Android)]
-	[TestFixture(Platform.iOS)]
 	public class Tests
 	{
 		IApp app;
