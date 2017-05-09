@@ -1,15 +1,12 @@
-﻿using System;
-using System.IO;
-using System.Linq;
+﻿using System.Threading;
+
 using NUnit.Framework;
+
 using Xamarin.UITest;
-using Xamarin.UITest.Queries;
-using System.Threading;
 
 namespace BurgerKing
 {
-	[TestFixture(Platform.Android)]
-	[TestFixture(Platform.iOS)]
+    [TestFixture(Platform.Android)]
 	public class Tests
 	{
 		IApp app;

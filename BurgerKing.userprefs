@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{65BEE3C1-ABF5-4780-9F7F-6853009C8220}|Unit Tests">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BurgerKing/Tests.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BurgerKing/AppInitializer.cs">
     <Files>
-      <File FileName="BurgerKing/AppInitializer.cs" Line="23" Column="16" />
-      <File FileName="BurgerKing/Tests.cs" Line="54" Column="48" />
+      <File FileName="BurgerKing/AppInitializer.cs" Line="30" Column="33" />
+      <File FileName="BurgerKing/Tests.cs" Line="11" Column="33" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
